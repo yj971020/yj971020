@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 <img src="https://img.shields.io/badge/java-red?style=flat-square&logo=java&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/javascript-orange?style=flat-square&logo=javascript&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/css-yellow?style=flat-square&logo=css&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/springboot-E5FFCC?style=flat-square&logo=&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> 
 
 
