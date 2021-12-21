@@ -18,8 +18,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/java-FF6666?style=flat-square&logo=java&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/javascript-FFB266?style=flat-square&logo=javascript&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/css-FFFF66?style=flat-square&logo=css&logoColor=white"/></a>
-
-<img src="https://img.shields.io/badge/springboot-B2FF66?style=flat-square&logo=springboot&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/Springboot-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
 <img src="https://img.shields.io/badge/mysql-66FF66?style=flat-square&logo=mysql&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
