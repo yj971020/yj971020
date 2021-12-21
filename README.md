@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://img.shields.io/badge/java-red?style=flat-square&logo=java&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/javascript-orange?style=flat-square&logo=javascript&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/css-yellow?style=flat-square&logo=css&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/springboot-E5FFCC?style=flat-square&logo=&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/java-FF9999?style=flat-square&logo=java&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/javascript-FFCC99?style=flat-square&logo=javascript&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/css-FFFF99?style=flat-square&logo=css&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/springboot-CCFF99?style=flat-square&logo=springboot&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/mysql-99FF99?style=flat-square&logo=mysql&logoColor=white"/></a> 
 
 
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yj971020"></div>
