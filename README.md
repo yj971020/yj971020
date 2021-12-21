@@ -20,6 +20,15 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/css-FFFF66?style=flat-square&logo=css&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/springboot-B2FF66?style=flat-square&logo=springboot&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/mysql-66FF66?style=flat-square&logo=mysql&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
+<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
+<img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=white">
+<img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
+
 
 
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yj971020"></div>
