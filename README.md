@@ -51,14 +51,14 @@ I am an independent student researcher and back-end developer being active in So
 * FinTech & Cryptocurrency.
 
 ### Message from me with love💪
-![chat_svg](https://github.com/jypthemiracle/jypthemiracle/blob/master/chat.svg)
+![chat_svg](https://github.com/yj971020/yj971020/blob/master/chat.svg)
 
 ### See how extent Sigrid Jin loves algorithm❤️
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jypthemiracle)](https://solved.ac/jypthemiracle)
 
 ### Watch my contribution graph get eaten by the snake🐍
-![snake svg](https://github.com/jypthemiracle/jypthemiracle/blob/output/github-contribution-grid-snake.svg)
+![snake svg](https://github.com/yj971020/yj971020/blob/output/github-contribution-grid-snake.svg)
 
 ### 🔭 Languages & Frameworks
 - Java & Spring Boot (Intermediate, Primary Language/Framework)
