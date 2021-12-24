@@ -277,9 +277,9 @@
 
   <!-- Work ... -->
   <g transform="translate(10, 120)" class="msg-3">
-    <rect width="459" height="42" rx="18.0355" class="bubble" />
+    <rect width="459" height="66" rx="18.0355" class="bubble" />
     <text x="15" y="27">I’m eager to challenge new things!</text>
-    <!-- <text x="15" y="50">but I’ve been currently mandatory military leave now.</text> -->
+     <text x="15" y="50">🥰</text> 
   </g>
 
   <!-- typing 4 -->
@@ -330,7 +330,7 @@
   <!-- Thanks -->
   <g transform="translate(10, 240)" class="msg-5">
     <rect width="255" height="66.13" rx="18.0355" class="bubble" />
-   <!-- <text x="15" y="27">Stay safe on this pandemic!</text> -->
+    <text x="15" y="27">Stay safe on this pandemic!</text> 
     <text x="15" y="47">Have a nice Tuesday! <tspan class="emoji">👋</tspan></text>
   </g>
 </svg>
