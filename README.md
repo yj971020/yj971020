@@ -55,7 +55,7 @@ I am an independent student researcher and back-end developer being active in So
 
 ### See how extent Sigrid Jin loves algorithm❤️
 
-<img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yj971020"></div>
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yj971020"></div>
 
 ### Watch my contribution graph get eaten by the snake🐍
 ![snake svg](https://github.com/yj971020/yj971020/blob/output/github-contribution-grid-snake.svg)
