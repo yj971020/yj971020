@@ -33,7 +33,7 @@ I am an independent student researcher and back-end developer being active in So
 * FinTech & Cryptocurrency.
 
 ### Message from me with love💪
-![chat_svg](https://github.com/yj971020/yj971020/chat.svg)
+![chat_svg](https://github.com/yj971020/yj971020/blob/master/chat.svg)
 
 ### algorithm❤️
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yj971020"></div>
