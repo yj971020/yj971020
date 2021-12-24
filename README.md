@@ -15,13 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-
-
-
-
-
-
 ### Jin Hyung Park known as Sigrid Jin -- @jypthemiracle
 
 👋 Hi! Welcome to my GitHub place for those who pass by as a stranger or my acquiantance.
@@ -68,5 +61,5 @@ I am an independent student researcher and back-end developer being active in So
 - brief page: http://bit.ly/jypthemiracle
 - development resume: http://abit.ly/jinhyung-resume
 - tech blog: https://medium.com/@jypthemiracle
-- email: hophfg@yahoo.co.kr
+- email: yj971020@naver.com
 
