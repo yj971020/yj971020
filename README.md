@@ -15,6 +15,40 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+
+
+
+
+
+
+### Jin Hyung Park known as Sigrid Jin -- @jypthemiracle
+
+👋 Hi! Welcome to my GitHub place for those who pass by as a stranger or my acquiantance.
+I am an independent student researcher and back-end developer being active in South Korea, currently taking military leave expected to be end on May 2022.
+
+### 📓Education
+* 강원대학교 컴퓨터정보통신공학 (2016.03 ~ 2018.02)
+* 동국대학교 수학과 (2018.03~2022.02)
+* 비트캠프 수료 (2021.07 ~ 2021.12)
+
+### 
+* Back-end development in general.
+* Econometrics, Data Science.
+* Aviation Business.
+* Software Education.
+* FinTech & Cryptocurrency.
+
+### Message from me with love💪
+![chat_svg](https://github.com/yj971020/yj971020/blob/master/chat.svg)
+
+### algorithm❤️
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yj971020"></div>
+
+### Watch my contribution graph get eaten by the snake🐍
+![snake svg](https://github.com/yj971020/yj971020/blob/output/github-contribution-grid-snake.svg)
+
+### 🔭 Languages & Frameworks
 <img src="https://img.shields.io/badge/java-FF6666?style=for-the-badge&logo=java&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/javascript-FFB266?style=for-the-badge&logo=javascript&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/css-FFFF66?style=for-the-badge&logo=css&logoColor=white"/></a>
@@ -28,47 +62,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=white">
 <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
 
-
-
-
-
-
-### Jin Hyung Park known as Sigrid Jin -- @jypthemiracle
-
-👋 Hi! Welcome to my GitHub place for those who pass by as a stranger or my acquiantance.
-I am an independent student researcher and back-end developer being active in South Korea, currently taking military leave expected to be end on May 2022.
-
-### 📓Education
-* Back-end masters course, CodeSquad, Seoul-based programming bootcamp. (2020.01 ~ 2020.08)
-* Department of Mathematics, Interdisciplinary Studies, Kyung Hee University. (2018.03~)
-* Chinese Major, Seoul Foreign Language High School. (2015.03 ~ 2017.02)
-
-### Interests
-* Back-end development in general.
-* Econometrics, Data Science.
-* Aviation Business.
-* Software Education.
-* FinTech & Cryptocurrency.
-
-### Message from me with love💪
-![chat_svg](https://github.com/yj971020/yj971020/blob/master/chat.svg)
-
-### See how extent Sigrid Jin loves algorithm❤️
-
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yj971020"></div>
-
-### Watch my contribution graph get eaten by the snake🐍
-![snake svg](https://github.com/yj971020/yj971020/blob/output/github-contribution-grid-snake.svg)
-
-### 🔭 Languages & Frameworks
-- Java & Spring Boot (Intermediate, Primary Language/Framework)
-- Python/ESNext+ (Novice, Languages to solve PS challenges)
-
-### 👯 Previous Side jobs (until August 2020)
-- Refactoring Manager at Sullivan Project(설리번 프로젝트 @sullivanproject), the program for directing developers to build their first-ever instructional experience.
-- Activist at NullFull(널채움 @nullfull), the civic hacking community located in Seoul, South Korea.
-- Organizer at AngelHack Seoul (엔젤핵 서울 @angelhackseoul), the one of the largest global-based hackathon convening in Seoul, South Korea.
-- The self-proclaimed [@thisissigrid](https://www.thisissigrid.com/) Ambassador to South Korea. Sigrid Rabbe is a powerful and charming Norwegian singer and songwriter. Hope you find to enjoy [Sucker Punch](https://www.youtube.com/watch?v=1uHt2LrCSWg), the favorite of mine.
 
 ### 📫 How to reach me
 - linkedin: https://www.linkedin.com/in/jinhyungp1/
