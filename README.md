@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 <!--
 ### Jin Hyung Park known as Sigrid Jin -- @jypthemiracle
-
 👋 Hi! Welcome to my GitHub place for those who pass by as a stranger or my acquiantance.
 I am an independent student researcher and back-end developer being active in South Korea, currently taking military leave expected to be end on May 2022.
 -->
@@ -32,7 +31,8 @@ I am an independent student researcher and back-end developer being active in So
 ![chat_svg](https://github.com/yj971020/yj971020/blob/master/chat.svg)
 ### 📓Education
 * 강원대학교 컴퓨터정보통신공학 (2016.03 ~ 2018.02)
-* 동국대학교 수학과 (2018.03~2022.02)
+* 동국대학교 수학과 (2018.03 ~ 2022.02)
+* 동국대학교 경제학과 (2018.03 ~ 2022.02)
 * 비트캠프 수료 (2021.07 ~ 2021.12)
 
 ### algorithm❤️
