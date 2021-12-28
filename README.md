@@ -21,21 +21,7 @@ Here are some ideas to get you started:
 * 동국대학교 수학과 (2018.03 ~ 2022.02)
 * 동국대학교 경제학과 (2018.03 ~ 2022.02)
 * 강원대학교 컴퓨터정보통신공학 (2016.03 ~ 2018.02)
------
-<!--
-### algorithm❤
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yj971020"></div>
--->
-<!--
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=yj971020&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Yeajin's github stats" /></a> | <a href="https://github.com/yj971020/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yj971020&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
--->
-  
-
-### Watch my contribution graph get eaten by the snake🐍
-![snake svg](https://github.com/yj971020/yj971020/blob/output/github-contribution-grid-snake.svg)
-
----------
+----
 ### 🔭 Languages & Frameworks
 <div align="center">
 <img src="https://img.shields.io/badge/java-FF6666?style=for-the-badge&logo=java&logoColor=white"/></a> 
@@ -53,6 +39,21 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Ajax-red?style=for-the-badge&logo=Ajax&logoColor=white">
 <img src="https://img.shields.io/badge/Jquery-pink?style=for-the-badge&logo=Jquery&logoColor=white">
 </div>
+----
+<!--
+### algorithm❤
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yj971020"></div>
+-->
+<!--
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=yj971020&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Yeajin's github stats" /></a> | <a href="https://github.com/yj971020/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yj971020&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+-->
+  
+
+### Watch my contribution graph get eaten by the snake🐍
+![snake svg](https://github.com/yj971020/yj971020/blob/output/github-contribution-grid-snake.svg)
+
+---------
 
 ### 📫 How to reach me
 - tech Notion : https://candle-gruyere-af1.notion.site/ABOUT-YEAJIN-f5f6362a7eb64895b365a70f807d9b1d
