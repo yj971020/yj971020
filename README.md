@@ -39,7 +39,8 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Ajax-red?style=for-the-badge&logo=Ajax&logoColor=white">
 <img src="https://img.shields.io/badge/Jquery-pink?style=for-the-badge&logo=Jquery&logoColor=white">
 </div>
-----
+
+----------
 <!--
 ### algorithm❤
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yj971020"></div>
