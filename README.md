@@ -13,10 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Chat with me!
+## 👂Chat with me!
 ![chat_svg](https://github.com/yj971020/yj971020/blob/master/chat.svg)
-
-----
 
 ### 📓Education
 * 비트캠프 수료 (2021.07 ~ 2021.12)
@@ -24,7 +22,7 @@ Here are some ideas to get you started:
 * 동국대학교 경제학과 (2018.03 ~ 2022.02)
 * 강원대학교 컴퓨터정보통신공학 (2016.03 ~ 2018.02)
 
--------
+
 ### 🔭 Languages & Frameworks
 <div align="center">
 <img src="https://img.shields.io/badge/java-FF6666?style=for-the-badge&logo=java&logoColor=white"/></a> 
@@ -43,7 +41,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Jquery-pink?style=for-the-badge&logo=Jquery&logoColor=white">
 </div>
 
-----------
+
 <!--
 ### algorithm❤
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yj971020"></div>
