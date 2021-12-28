@@ -13,17 +13,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="center">
+## Chat with me!
 ![chat_svg](https://github.com/yj971020/yj971020/blob/master/chat.svg)
-  </div>
+
 ----
-<div align="center">
+
 ### 📓Education
 * 비트캠프 수료 (2021.07 ~ 2021.12)
 * 동국대학교 수학과 (2018.03 ~ 2022.02)
 * 동국대학교 경제학과 (2018.03 ~ 2022.02)
 * 강원대학교 컴퓨터정보통신공학 (2016.03 ~ 2018.02)
-  </div>
+
 -------
 ### 🔭 Languages & Frameworks
 <div align="center">
