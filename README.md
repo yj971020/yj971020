@@ -38,14 +38,16 @@ I am an independent student researcher and back-end developer being active in So
 ### algorithm❤
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yj971020"></div>
 -->
-
+<!--
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=yj971020&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Yeajin's github stats" /></a> | <a href="https://github.com/yj971020/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yj971020&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
+-->
   
 
 ### Watch my contribution graph get eaten by the snake🐍
 ![snake svg](https://github.com/yj971020/yj971020/blob/output/github-contribution-grid-snake.svg)
 
+---------
 ### 🔭 Languages & Frameworks
 <div align="center">
 <img src="https://img.shields.io/badge/java-FF6666?style=for-the-badge&logo=java&logoColor=white"/></a> 
