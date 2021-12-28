@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 * 동국대학교 수학과 (2018.03 ~ 2022.02)
 * 동국대학교 경제학과 (2018.03 ~ 2022.02)
 * 강원대학교 컴퓨터정보통신공학 (2016.03 ~ 2018.02)
-----
+-------
 ### 🔭 Languages & Frameworks
 <div align="center">
 <img src="https://img.shields.io/badge/java-FF6666?style=for-the-badge&logo=java&logoColor=white"/></a> 
