@@ -25,7 +25,6 @@ I am an independent student researcher and back-end developer being active in So
 * Software Education.
 * FinTech & Cryptocurrency.
 -->
-### Message from me with love💪
 ![chat_svg](https://github.com/yj971020/yj971020/blob/master/chat.svg)
 
 ### 📓Education
