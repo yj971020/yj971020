@@ -58,8 +58,8 @@ I am an independent student researcher and back-end developer being active in So
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=white">
 <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
-<img src="https://img.shields.io/badge/ajax-red?style=for-the-badge&logo=ajax&logoColor=white">
-<img src="https://img.shields.io/badge/jquery-pink?style=for-the-badge&logo=ajax&logoColor=white">
+<img src="https://img.shields.io/badge/Ajax-red?style=for-the-badge&logo=Ajax&logoColor=white">
+<img src="https://img.shields.io/badge/Jquery-pink?style=for-the-badge&logo=Jquery&logoColor=white">
 
 
 ### 📫 How to reach me
