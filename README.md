@@ -45,9 +45,9 @@ I am an independent student researcher and back-end developer being active in So
 
 ### Watch my contribution graph get eaten by the snake🐍
 ![snake svg](https://github.com/yj971020/yj971020/blob/output/github-contribution-grid-snake.svg)
-<div align="center">
-### 🔭 Languages & Frameworks
 
+### 🔭 Languages & Frameworks
+<div align="center">
 <img src="https://img.shields.io/badge/java-FF6666?style=for-the-badge&logo=java&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/javascript-FFB266?style=for-the-badge&logo=javascript&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/css-FFFF66?style=for-the-badge&logo=css&logoColor=white"/></a>
