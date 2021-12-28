@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Ajax-red?style=for-the-badge&logo=Ajax&logoColor=white">
 <img src="https://img.shields.io/badge/Jquery-pink?style=for-the-badge&logo=Jquery&logoColor=white">
 <img src="https://img.shields.io/badge/Thymeleaf-green?style=for-the-badge&logo=Thymeleaf&logoColor=white">
-<img src="https://img.shields.io/badge/Servlet-green?style=for-the-badge&logo=Servlet&logoColor=white">
+<img src="https://img.shields.io/badge/Servlet-darkblue?style=for-the-badge&logo=Servlet&logoColor=white">
 </div>
 
 
