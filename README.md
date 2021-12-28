@@ -62,7 +62,7 @@ I am an independent student researcher and back-end developer being active in So
 <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
 <img src="https://img.shields.io/badge/Ajax-red?style=for-the-badge&logo=Ajax&logoColor=white">
 <img src="https://img.shields.io/badge/Jquery-pink?style=for-the-badge&logo=Jquery&logoColor=white">
-<div>
+</div>
 
 ### 📫 How to reach me
 - tech Notion : https://candle-gruyere-af1.notion.site/ABOUT-YEAJIN-f5f6362a7eb64895b365a70f807d9b1d
