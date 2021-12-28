@@ -59,6 +59,6 @@ I am an independent student researcher and back-end developer being active in So
 
 
 ### 📫 How to reach me
-- tech Notion:https://candle-gruyere-af1.notion.site/ABOUT-YEAJIN-f5f6362a7eb64895b365a70f807d9b1d
+- tech Notion : https://candle-gruyere-af1.notion.site/ABOUT-YEAJIN-f5f6362a7eb64895b365a70f807d9b1d
 - email: yj971020@naver.com
 
