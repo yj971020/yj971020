@@ -32,7 +32,7 @@ I am an independent student researcher and back-end developer being active in So
 * 동국대학교 수학과 (2018.03 ~ 2022.02)
 * 동국대학교 경제학과 (2018.03 ~ 2022.02)
 * 강원대학교 컴퓨터정보통신공학 (2016.03 ~ 2018.02)
-* 
+
 ### algorithm❤
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yj971020"></div>
 
