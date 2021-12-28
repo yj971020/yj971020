@@ -279,7 +279,7 @@ Gyeonggi-do, Korea where it’s supposed to be</text>
   <!-- Work ... -->
   <g transform="translate(10, 120)" class="msg-3">
     <rect width="459" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">I’m excitied to learn new things!</text>
+    <text x="15" y="27">I’m excited to learn new things!</text>
     <text x="15" y="50">and I hope to be a world changing developer✨</text>
   </g>
 
@@ -303,7 +303,7 @@ Gyeonggi-do, Korea where it’s supposed to be</text>
 
   <!-- Twitter -->
   <g transform="translate(10, 192)" class="msg-4">
-    <rect width="415" height="42" rx="18.0355" class="bubble" />
+    <rect width="400" height="42" rx="18.0355" class="bubble" />
     <text x="15" y="27">
       You can find me on
       <a xlink:href="https://www.notion.so/ABOUT-YEAJIN-f5f6362a7eb64895b365a70f807d9b1d">yeajin's notion</a>
