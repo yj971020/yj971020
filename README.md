@@ -33,8 +33,10 @@ I am an independent student researcher and back-end developer being active in So
 * 동국대학교 경제학과 (2018.03 ~ 2022.02)
 * 강원대학교 컴퓨터정보통신공학 (2016.03 ~ 2018.02)
 
+<!--
 ### algorithm❤
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yj971020"></div>
+-->
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=yj971020&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Yeajin's github stats" /></a> | <a href="https://github.com/yj971020/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yj971020&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
