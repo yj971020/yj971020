@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## 👂Chat with me!
+## 👂Chat with Yeajin!
 ![chat_svg](https://github.com/yj971020/yj971020/blob/master/chat.svg)
 
 ### 📓Education
