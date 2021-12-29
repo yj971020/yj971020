@@ -252,10 +252,10 @@
 
   <!-- From Columbus... -->
   <g transform="translate(10, 48)" class="msg-2">
-    <rect width="485" height="66.1302" rx="18.0355" class="bubble" />
+    <rect width="425" height="66.1302" rx="18.0355" class="bubble" />
     <text x="15" y="27">I am from 
 Gyeonggi-do, Korea where it’s supposed to be</text>
-    <text x="15" y="50">32° F (0° C) and <tspan class="emoji">☁️</tspan> today.</text>
+    <text x="15" y="50">44° F (7° C) and <tspan class="emoji">❄️</tspan> today.</text>
   </g>
 
   <!-- typing 3 -->
@@ -279,7 +279,7 @@ Gyeonggi-do, Korea where it’s supposed to be</text>
   <!-- Work ... -->
   <g transform="translate(10, 120)" class="msg-3">
     <rect width="459" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">I’m excited to learn new things!</text>
+    <text x="15" y="27">I’m excitied to learn new things!</text>
     <text x="15" y="50">and I hope to be a world changing developer✨</text>
   </g>
 
@@ -303,7 +303,7 @@ Gyeonggi-do, Korea where it’s supposed to be</text>
 
   <!-- Twitter -->
   <g transform="translate(10, 192)" class="msg-4">
-    <rect width="400" height="42" rx="18.0355" class="bubble" />
+    <rect width="415" height="42" rx="18.0355" class="bubble" />
     <text x="15" y="27">
       You can find me on
       <a xlink:href="https://www.notion.so/ABOUT-YEAJIN-f5f6362a7eb64895b365a70f807d9b1d">yeajin's notion</a>
@@ -332,6 +332,6 @@ Gyeonggi-do, Korea where it’s supposed to be</text>
   <g transform="translate(10, 240)" class="msg-5">
     <rect width="255" height="66.13" rx="18.0355" class="bubble" />
     <text x="15" y="27">thanks for visiting my Githob!</text>
-    <text x="15" y="47">Have a nice Tuesday! <tspan class="emoji">👋</tspan></text>
+    <text x="15" y="47">Have a nice Wednesday! <tspan class="emoji">👋</tspan></text>
   </g>
 </svg>
