@@ -57,7 +57,6 @@ Here are some ideas to get you started:
 ![snake svg](https://github.com/yj971020/yj971020/blob/output/github-contribution-grid-snake.svg)
 
 ---------
-
 ### 📫 How to reach me
 - tech Notion : https://candle-gruyere-af1.notion.site/ABOUT-YEAJIN-f5f6362a7eb64895b365a70f807d9b1d
 - email: yj971020@naver.com
