@@ -1,4 +1,4 @@
-<svg width="550" height="400" viewBox="0 0 550 400" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="550" height="300" viewBox="0 0 550 300" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <style>
     .bubble {
       fill: #e9e9eb;
@@ -229,7 +229,7 @@
   <!-- Hi, I'm yea Jin -->
   <g transform="translate(10, 0)" class="msg-1 bubble">
     <rect width="159" height="42" rx="18.0355" />
-    <text x="15" y="27">Hi, I'm YeaJin</text>
+    <text x="15" y="27">Hi, I'm YeaJin 😊</text>
   </g>
 
   <!-- typing 2 -->
@@ -252,10 +252,10 @@
 
   <!-- From Columbus... -->
   <g transform="translate(10, 48)" class="msg-2">
-    <rect width="425" height="66.1302" rx="18.0355" class="bubble" />
+    <rect width="485" height="66.1302" rx="18.0355" class="bubble" />
     <text x="15" y="27">I am from 
 Gyeonggi-do, Korea where it’s supposed to be</text>
-    <text x="15" y="50">44° F (7° C) and <tspan class="emoji">❄️</tspan> today.</text>
+    <text x="15" y="50">26° F (-3° C) and <tspan class="emoji">☀️</tspan> today.</text>
   </g>
 
   <!-- typing 3 -->
@@ -330,8 +330,8 @@ Gyeonggi-do, Korea where it’s supposed to be</text>
 
   <!-- Thanks -->
   <g transform="translate(10, 240)" class="msg-5">
-    <rect width="255" height="66.13" rx="18.0355" class="bubble" />
+    <rect width="285" height="66.13" rx="18.0355" class="bubble" />
     <text x="15" y="27">thanks for visiting my Githob!</text>
-    <text x="15" y="47">Have a nice Wednesday! <tspan class="emoji">👋</tspan></text>
+    <text x="15" y="47">Have a nice Friday! <tspan class="emoji">👋</tspan></text>
   </g>
 </svg>
