@@ -56,6 +56,6 @@ Here are some ideas to get you started:
 
 ---------
 ### 📫 How to reach me
-- tech Notion : https://candle-gruyere-af1.notion.site/ABOUT-YEAJIN-f5f6362a7eb64895b365a70f807d9b1d
+- tech Notion : https://yeajin97.notion.site/f5f6362a7eb64895b365a70f807d9b1d
 - email: yj971020@naver.com
 
