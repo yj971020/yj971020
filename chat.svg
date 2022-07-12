@@ -255,7 +255,7 @@
     <rect width="485" height="66.1302" rx="18.0355" class="bubble" />
     <text x="15" y="27">I am from 
 Gyeonggi-do, Korea where it’s supposed to be</text>
-    <text x="15" y="50">86° F (30° C) and <tspan class="emoji">🌦</tspan> today.</text>
+    <text x="15" y="50">87° F (31° C) and <tspan class="emoji">🌦</tspan> today.</text>
   </g>
 
   <!-- typing 3 -->
@@ -332,6 +332,6 @@ Gyeonggi-do, Korea where it’s supposed to be</text>
   <g transform="translate(10, 240)" class="msg-5">
     <rect width="285" height="66.13" rx="18.0355" class="bubble" />
     <text x="15" y="27">thanks for visiting my Github!</text>
-    <text x="15" y="47">Have a nice Monday! <tspan class="emoji">👋</tspan></text>
+    <text x="15" y="47">Have a nice Tuesday! <tspan class="emoji">👋</tspan></text>
   </g>
 </svg>
